@@ -31,7 +31,7 @@ def convert_video_to_mp3():
     conversion_data = {
         'link': video_link,
         'format': 'mp3',
-        'audioBitrate': '320',
+        'audioBitrate': '128',
         'videoQuality': '720',
         'vCodec': 'h264'
     }
